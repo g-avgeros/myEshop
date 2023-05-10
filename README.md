@@ -36,7 +36,7 @@ Products
 - DELETE /api/products/:id - Delete a product
 
 ## Logging
-All requests to the API are logged to the console and to MongoDB using Winston. The logs are stored in the logs collection in the eshop database.
+All requests to the API are logged to the console and to MongoDB.. The logs are stored in the logs collection in the eshop database.
 
 ## Documentation
 API documentation is provided using Swagger. To access the documentation, go to http://localhost:3000/api-docs in your web browser.
